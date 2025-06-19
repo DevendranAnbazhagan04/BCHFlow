@@ -81,6 +81,8 @@ jobs:
       with:
 
         lfs: true
+    - name: Install Power Platform CLI (PAC)
+      uses: DevendranAnbazhagan04/powerplatform-actions/actions-install@main
 
  
 
